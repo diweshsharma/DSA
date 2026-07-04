@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/diweshsharma/DSA/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 ## String
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 ## Math
@@ -66,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
