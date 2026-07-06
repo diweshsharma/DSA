@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -79,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/diweshsharma/DSA/tree/master/1590-make-sum-divisible-by-p) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
