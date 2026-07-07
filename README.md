@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/diweshsharma/DSA/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 ## Trie
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/diweshsharma/DSA/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/diweshsharma/DSA/tree/master/1025-divisor-game) |
 ## Recursion
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/diweshsharma/DSA/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/diweshsharma/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
