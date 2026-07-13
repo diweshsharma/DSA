@@ -25,6 +25,7 @@ private:
 
 public:
     bool findTarget(TreeNode* root, int k) {
+        if(root == nullptr) return false;
         vector<int> res;
         print(root, res);
         int i = 0;
