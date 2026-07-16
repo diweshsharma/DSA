@@ -11,8 +11,8 @@
  * };
  */
 class Solution {
-    int sum = 0;
-    int res = 0;
+    // int sum = 0;
+    // int res = 0;
     int count(TreeNode* root) {
         if (root == NULL) {
             return 0;
@@ -21,8 +21,8 @@ class Solution {
         int left = count(root->left);
         int right = count(root->right);
 
-        sum += left + right;
-        res = max(res, sum);
+        // sum += left + right;
+        // res = max(res, sum);
 
         return 1 + max(left, right);
     }
