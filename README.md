@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/diweshsharma/DSA/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/diweshsharma/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/diweshsharma/DSA/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/diweshsharma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/diweshsharma/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/diweshsharma/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/diweshsharma/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/diweshsharma/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
