@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/diweshsharma/DSA/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/diweshsharma/DSA/tree/master/1260-shift-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/diweshsharma/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/diweshsharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -253,10 +254,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/diweshsharma/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/diweshsharma/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/diweshsharma/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
