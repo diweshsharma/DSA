@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/diweshsharma/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diweshsharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diweshsharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/diweshsharma/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diweshsharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diweshsharma/DSA/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diweshsharma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
