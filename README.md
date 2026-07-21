@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
+| [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/diweshsharma/DSA/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/diweshsharma/DSA/tree/master/1260-shift-2d-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/diweshsharma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/diweshsharma/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diweshsharma/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/diweshsharma/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/diweshsharma/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
