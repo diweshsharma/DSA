@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/diweshsharma/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diweshsharma/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diweshsharma/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/diweshsharma/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/diweshsharma/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/diweshsharma/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diweshsharma/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/diweshsharma/DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diweshsharma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
