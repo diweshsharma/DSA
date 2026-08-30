@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/diweshsharma/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/diweshsharma/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/diweshsharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/diweshsharma/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/diweshsharma/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/diweshsharma/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/diweshsharma/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/diweshsharma/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/diweshsharma/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/diweshsharma/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
