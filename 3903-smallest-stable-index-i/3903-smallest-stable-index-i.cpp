@@ -13,9 +13,10 @@ public:
         for (int i = 0; i < n; i++) {
             maxtill = max(maxtill, nums[i]);
             int score = maxtill - suffix[i];
-            if (score <= k)
-            return i;
+            if (score <= k) {
+                res = min(res, i);
+            }
         }
-        return -1;
+        return (res == INT_MAX) ? -1 : res;
     }
 };
