@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diweshsharma/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/diweshsharma/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diweshsharma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/diweshsharma/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/diweshsharma/DSA/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/diweshsharma/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/diweshsharma/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/diweshsharma/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diweshsharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diweshsharma/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/diweshsharma/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diweshsharma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/diweshsharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/diweshsharma/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
