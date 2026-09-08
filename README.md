@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diweshsharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/diweshsharma/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diweshsharma/DSA/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diweshsharma/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/diweshsharma/DSA/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/diweshsharma/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/diweshsharma/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/diweshsharma/DSA/tree/master/0692-top-k-frequent-words) |
@@ -386,7 +388,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/diweshsharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/diweshsharma/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
