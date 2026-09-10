@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/diweshsharma/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/diweshsharma/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diweshsharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/diweshsharma/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/diweshsharma/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diweshsharma/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/diweshsharma/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/diweshsharma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/diweshsharma/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/diweshsharma/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diweshsharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diweshsharma/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/diweshsharma/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/diweshsharma/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/diweshsharma/DSA/tree/master/0633-sum-of-square-numbers) |
