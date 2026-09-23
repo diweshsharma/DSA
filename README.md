@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/diweshsharma/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diweshsharma/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/diweshsharma/DSA/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/diweshsharma/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diweshsharma/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/diweshsharma/DSA/tree/master/0455-assign-cookies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/diweshsharma/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diweshsharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/diweshsharma/DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/diweshsharma/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/diweshsharma/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/diweshsharma/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/diweshsharma/DSA/tree/master/1025-divisor-game) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/diweshsharma/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/diweshsharma/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/diweshsharma/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/diweshsharma/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/diweshsharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/diweshsharma/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/diweshsharma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/diweshsharma/DSA/tree/master/0455-assign-cookies) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/diweshsharma/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
